@@ -23,9 +23,7 @@
 <a href="https://github.com/zaleoz1/">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=zaleoz1&show_icons=true&theme=radical&locale=pt-br"/>
 </a>
-<a href="https://github.com/zaleoz1/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaleoz1&layout=compact&langs_count=8&locale=pt-br"/>
-</a>
+
 
 ## Tecnologias que utilizo💻
 
