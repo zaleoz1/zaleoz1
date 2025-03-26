@@ -9,23 +9,8 @@
 - 🌱 Estudando Desenvolvimento mobile
 - 📖 Discente do quinto período de Ciência da Computação
 - 🎯 Prentendo me especializar com Spring Boot e desenvolver projetos full stack
-
-## Informações de contato📩
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-
-## Estatísticas📈
-
-<a href="https://github.com/zaleoz1/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zaleoz1&show_icons=true&theme=radical&locale=pt-br"/>
-</a>
-
-
-## Tecnologias que utilizo💻
+  
+## my technologies💻
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -48,10 +33,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
+ 
+
+## Statistics📈
+
+<a href="https://github.com/zaleoz1/">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zaleoz1&show_icons=true&theme=radical&locale=pt-br"/>
+</a>
+
+## Informações de contato📩
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
+
 
 ###
-
-#
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake-dark.svg">
@@ -59,7 +58,6 @@
 </picture>
 
 ## Sobre mim🚀
-<img align="right" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="310">
 <p>
 Sou uma pessoa dedicada e sempre em busca de aprendizado e evolução. Acredito que cada dia é uma nova oportunidade para expandir meus conhecimentos, aprimorar minhas habilidades e enfrentar desafios que me ajudem a crescer tanto pessoal quanto profissionalmente. Minha paixão pela tecnologia me motiva a explorar novas ferramentas, metodologias e boas práticas, garantindo um desenvolvimento contínuo e eficiente.
 
