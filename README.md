@@ -1,16 +1,29 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DD00F6&center=true&vCenter=true&random=false&width=524&lines=Olá+Mundo!+Seja+Bem-Vindo!👋" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
-</div> 
+</div>
+
+<img align="center" alt="" src="/src/tumb.gif">
 
 #
 
-- 🌱 Estudando Desenvolvimento mobile
-- 📖 Discente do quinto período de Ciência da Computação
-- 🎯 Prentendo me especializar com Spring Boot e desenvolver projetos full stack
+<p align="center">Estudante de Ciências da Computação na faculdade Estácio. Atualmente, estou me dedicando ao aprendizado e desenvolvimento nas áreas de Desenvolvimento Mobile (Android e iOS), Python e React. Estou em constante evolução, explorando novas tecnologias e aprimorando minhas habilidades para construir projetos criativos e funcionais.
+
+
   
-## my technologies💻
+#
+
+<img align="right" alt="" height="190px" src="/src/gif01.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](#)
+
+
+<h3 align="left">My Stack </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -32,36 +45,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
  
+#
 
-## Statistics📈
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zaleoz1&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-<a href="https://github.com/zaleoz1/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zaleoz1&show_icons=true&theme=radical&locale=pt-br"/>
-</a>
+  <a href="https://github.com/zaleoz1/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zaleoz1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
-## Informações de contato📩
+#
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-
-
-###
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaleoz1/zaleoz1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaleoz1/zaleoz1/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zaleoz1/zaleoz1/output/github-contribution-grid-snake.svg">
 </picture>
-
-## Sobre mim🚀
-<p>
-Sou uma pessoa dedicada e sempre em busca de aprendizado e evolução. Acredito que cada dia é uma nova oportunidade para expandir meus conhecimentos, aprimorar minhas habilidades e enfrentar desafios que me ajudem a crescer tanto pessoal quanto profissionalmente. Minha paixão pela tecnologia me motiva a explorar novas ferramentas, metodologias e boas práticas, garantindo um desenvolvimento contínuo e eficiente.
-
-Tenho conhecimentos em desenvolvimento fullstack, utilizando Spring no backend e React no frontend. Gosto de trabalhar com tecnologias modernas e escaláveis, buscando sempre escrever código limpo e bem estruturado. Além disso, estou constantemente estudando para aprofundar meus conhecimentos e me manter atualizado com as tendências do mercado.
-
-Acredito que a melhor forma de evoluir é compartilhar conhecimento e aprender com os outros. Por isso, estou sempre aberto a novas experiências, colaborações e desafios que possam me proporcionar crescimento e novas perspectivas.
-</p>
