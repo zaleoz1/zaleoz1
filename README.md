@@ -6,7 +6,7 @@
 #
 
 <p align="center" style="text-align: justify-content;">
-    Estudante de Ciências da Computação na faculdade Estácio. Atualmente, estou me dedicando ao aprendizado e desenvolvimento nas áreas de Desenvolvimento Mobile (Android e iOS), Python e React. Estou em constante evolução, explorando novas tecnologias e aprimorando minhas habilidades para construir projetos criativos e funcionais.
+ 
 </p>
 
 
