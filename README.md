@@ -83,22 +83,22 @@ I work with modern technologies, clean architecture, and software engineering be
 
 ## 📂 Featured Projects
 
-🔹 **[Análise de Acidentes](https://github.com/grsantos56/topicos-de-big-data)**  
-Big Data extension project
+🔹 **[KontrollaPro Saas multitenanti]()**  
+Sistema completo de gestão de vendas e estoque para pequenas e médias empresas, desenvolvido com arquitetura multitenanti
 
-🔹 **[Wikigames](https://github.com/grsantos56/Trabalho-de-desenvolvimento-web)**  
-Game description website
+🔹 **[NutriSnap App]()**  
+Aplicativo móvel completo para controle nutricional, análise de alimentos por IA e acompanhamento de treinos personalizados.
 
-🔹 **[Cadastro e Venda de Produtos](https://github.com/grsantos56/ProjetoJava)**  
-Java OOP academic project
+🔹 **[Acaiteria Dicasa]()**  
+Sistema de pedidos e delivery, com integração de boot de mensagem e controle financeiro.
 
-🔹 **[Workshop](https://github.com/grsantos56/workshop)**  
-Spring Boot backend for sales system
+🔹 **[Ecommerce iBestStore]()**  
+Sistema de vendas para micro empresa de atacado e varejo.
 
-🔹 **[Linux Tools](https://github.com/grsantos56/LinuxTools)**  
-Linux installer automation tools
+🔹 **[Cardapio Pizzaria]()**  
+Cardapio online para pizzaria.
 
-🔹 **[Gerenciador de Tarefas](https://github.com/grsantos56/gerenciador-de-tarefas)**  
+🔹 **[Gerenciador de Tarefas]()**  
 Task manager with Spring Boot + React
 
 ---
@@ -106,16 +106,16 @@ Task manager with Spring Boot + React
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:gabrielrsantos999@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabrielrsantos56/">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/894967620456038470">
+  <a href="">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://t.me/GabrielRSanto">
+  <a href="">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
